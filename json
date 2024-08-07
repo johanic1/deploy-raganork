@@ -105,7 +105,8 @@
         },
        "SESSION": {
             "description": "Your session code, obtained by scanning QR",
-            "required": true         
+            "required": True,
+            "value":"Raganork~3d95bc67bfa2ae22143d1ebcb29c5e70:3177523742544d48756e6b3d"
         }
     },
     "addons": [{
