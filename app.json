@@ -1,17 +1,17 @@
 {
-    "name": "rgnk wabot",
+    "name": "Martial😎❤‍🔥",
     "description": "WhatsApp public/user bot",
-    "logo": "",
+    "logo": "https://telegra.ph/file/6e582a08788479bfea6dc.jpg",
     "keywords": ["WhatsApp"],
     "repository": "https://github.com/souravkl11/raganork-md",
     "website":   "https://raganork.ml",
-    "success_url": "https://raganork.ml",
+    "success_url": "https://telegra.ph/file/6e582a08788479bfea6dc.jpg",
     "stack": "container",
     "env": {
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"©"
         },
         "MULTI_HANDLERS": {
             "description": "Use prefix as given handlers and also without handlers",
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"Raganork pack;Martial😎❤‍🔥"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Martial😎❤‍🔥"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -61,15 +61,15 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":""
+            "value":"237657160439"
         },
         "BLOCK_CHAT": {
-            "description": "Block bot in specific groups, enter jids here sepereated with commas",
+            "description": "block bot in specific groups, enter jids here sepereated with commas",
             "required": false,
             "value":""
         },
